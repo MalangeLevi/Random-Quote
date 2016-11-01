@@ -1,0 +1,38 @@
+body{
+	
+}
+
+button{
+	margin:0 auto;
+}
+
+div.balck{
+	background: black;
+}
+
+h1{
+	text-align:center;
+	color: blue;
+}
+
+p{
+	text-align:justify;
+	color: white;
+	font-family: armenian;
+	font-size: 25px;
+}
+
+p.second{
+	color: blue;
+}
+
+img{
+	  border-radius: 8px;
+}
+
+.image{
+	height:200px;
+	width:550px;
+	border-radius:8px;
+	 background-image:url("http://res.cloudinary.com/dr3rnaigv/image/upload/v1467200611/yourweather_qe7aep.jpg");
+}
